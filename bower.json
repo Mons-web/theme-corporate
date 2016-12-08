@@ -1,0 +1,23 @@
+{
+  "name": "theme-corporate",
+  "homepage": "https://github.com/helios-technologies/theme-corporate",
+  "authors": [
+    "Louis Bellet <lbellet@heliostech.fr>"
+  ],
+  "description": "Generic and Modular CSS framework based on bootstrap",
+  "main": "corporate.css",
+  "keywords": [
+    "css",
+    "corporate",
+    "theme",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
